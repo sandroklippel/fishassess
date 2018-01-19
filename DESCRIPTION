@@ -1,0 +1,10 @@
+Package: FishAssess
+Version: 0.1-1
+Date: 2002/03/01
+Title: Functions on fishery biology, stock assessment and management.
+Author: Sandro Klippel <sandroklippel@gmail.com>.
+Maintainer: Sandro Klippel <sandroklippel@gmail.com>
+Depends: nls, MASS
+Description: Functions on fishery biology, stock assessment and management.
+License: GPL version 2 or newer
+URL: http://www.r-project.org https://github.com/sandroklippel/fishassess

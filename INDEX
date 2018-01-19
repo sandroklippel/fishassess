@@ -1,0 +1,10 @@
+BevertonHolt            Beverton and Holt biomass and yield per
+                        recruit calculation.
+phi                     Munro's phi
+MethodsBH               Methods for BH class.
+NaturalMortality        Estimation of natural mortality.
+num.deriv               Numerical derivative by Ridders' method.
+ReferencePointsBH       Biological reference points from
+                        yield-per-recruit analysis.
+solveCatchEq            Solves catch equation
+VonBertalanffy          Von Bertalanffy growth function
