@@ -57,7 +57,7 @@ populations. ICNAF Res. Doc. 76 (VI), 12.
 
 }
 
-\author{ Sandro Klippel and Monica Brick Peres }
+\author{ Sandro Klippel }
 
 \keyword{ misc }
 \keyword{ arith }

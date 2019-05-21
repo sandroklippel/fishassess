@@ -38,7 +38,7 @@ stock assessment - Part 1: Manual. Vol. 306/1 of FAO Fisheries
 Technical Paper. FAO, Rome.
 }
 
-\author{ Sandro Klippel and Monica Brick Peres }
+\author{ Sandro Klippel }
 
 \seealso{ \code{\link{VBGFl}}, \code{\link{VBGFw}} }
 

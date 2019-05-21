@@ -39,7 +39,7 @@ Von Bertalanffy, L., 1938. A quantitative theory of organic growth
 (inquiries on growth laws. II). Human Biology 10 (2), 181-213. 
 }
 
-\author{ Sandro Klippel and Monica Brick Peres }
+\author{ Sandro Klippel }
 
 \seealso{ \code{\link{phi}}, \code{\link{phi.prime}} }
 

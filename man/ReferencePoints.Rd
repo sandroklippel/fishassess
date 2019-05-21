@@ -67,7 +67,7 @@ mortalities. \code{F0.1} is searched between zero and
 \code{Fmax}. The slope is obtained by first derivative.
 }
 
-\author{ Sandro Klippel and Monica Brick Peres. }
+\author{ Sandro Klippel }
 
 \seealso{ \code{\link{Beverton.Holt}}, \code{\link{num.deriv}}, 
 \code{\link{optimize}}, \code{\link{uniroot}} }

@@ -1,5 +1,5 @@
 # FishAssess: add-on package for R system
-# Copyright (C) 2001 Sandro Klippel and Monica Brick Peres
+# Copyright (C) 2001 Sandro Klippel
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

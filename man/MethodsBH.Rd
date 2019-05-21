@@ -35,7 +35,7 @@ plot.profileBH(x, Flab="Fishing mortality",
 Print or plot the results of a Beverton and Holt analysis.
 }
 
-\author{ Sandro Klippel and Monica Brick Peres }
+\author{ Sandro Klippel }
 
 \seealso{ \code{\link{Beverton.Holt}}, \code{\link{Fmax}} }
 

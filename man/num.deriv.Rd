@@ -47,10 +47,6 @@ num.deriv(fun=function(x){x^3/3-x},-1)
 num.deriv(sin, 4)
 cos(4)
 
-# F(x)  = sqrt(x)
-# F'(x) = 1 / (2*sqrt(x))
-num.deriv(sqrt,0.1)
-1/(2*sqrt(0.1))
 
 }
 \keyword{ math }

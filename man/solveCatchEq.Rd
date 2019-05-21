@@ -35,7 +35,7 @@ Numerical Recipes in FORTRAN 77: The Art of Scientific Computing,
 2nd Edition. Cambridge University Press, Cambridge.
 }
 
-\author{ Sandro Klippel and Monica Brick Peres }
+\author{ Sandro Klippel }
 
 \seealso{ \code{\link{vpa.age}} }
 

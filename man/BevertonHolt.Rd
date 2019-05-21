@@ -71,7 +71,7 @@ Sparre, P., Venema, S., 1998. Introduction to tropical fish stock assessment - P
 
 }
 
-\author{ Sandro Klippel and Monica Brick Peres. }
+\author{ Sandro Klippel }
 
 \seealso{ \code{\link{plot.BH}}, \code{\link{profile.BH}}, \code{\link{F0.1}},
 \code{\link{Fmax}}, \code{\link{isopleths}} }
