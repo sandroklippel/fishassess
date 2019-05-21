@@ -11,14 +11,6 @@ approximation and relative yield concept are available.
 
 }
 
-\synopsis{
-
-Beverton.Holt(F=NULL, M=NULL, Tr=NULL, Tc=NULL, Tmax=NULL, Wt=NULL, 
-              Winf=NULL, K=NULL, t0=NULL, b=3, FZ=NULL, Lc=NULL, Linf=NULL, 
-              MK=NULL, approxim=c("integration", "gulland", "relative"))
-
-}
-
 \usage{
 
 Beverton.Holt(F, M, Tr, Tc, Tmax, Wt, approxim="i")
